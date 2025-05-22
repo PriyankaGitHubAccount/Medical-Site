@@ -26,7 +26,7 @@ body {
   footer {
     text-align: center;
     padding: 10px;
-    background-color: #2e7d32;
+    background-color:#2e7d32;
     color: white;
     position: fixed;
     bottom: 0;
@@ -39,7 +39,7 @@ body {
     width: 100%;
     padding: 15px;
     margin: 10px 0;
-    background:#2e7d32;
+    background: #f6e958;
     border: none;
     border-radius: 12px;
     text-align: center;
